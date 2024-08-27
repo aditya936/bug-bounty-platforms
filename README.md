@@ -4,6 +4,7 @@ An ongoing community-powered collection of all known bug bounty platforms, vulne
 
 Is there a platform or detail missing, or have you spotted something wrong? This site is open source. [Improve this page](https://github.com/disclose/bug-bounty-platforms/edit/main/README.md)!
 
+More bb-platform check https://stellastra.com/best/bug-bounty-platform?page=0 [this line add by adi]
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
 | ødin | USA | [@0dinai](https://twitter.com/0dinai) | ❓ | ❓ | ❓ | ❓ | ❓ |
